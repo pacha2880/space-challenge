@@ -1,5 +1,7 @@
 # Space Challenge
 
+[¡JUEGA AHORA!](https://pacha2880.github.io/space-challenge/)
+
 Juego estilo "Space Invaders" creado como proyecto para la materia de Programación Web de la UMSS (semestre 2-2017).
 
 Descripción breve:
