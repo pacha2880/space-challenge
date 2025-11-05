@@ -1,0 +1,30 @@
+Bienvenido al juego Space Challenge!
+
+se tiene una nave que se mueve de izquierda a derecha con las flechas
+del teclado y dispara apretando la tecla espacio.
+
+si te llega a tocar un disparo enemigo pierdes una vida(tienes 4 vidas)
+tu nave se hace mas grande cada vez que pierdes una vida.
+
+el objetivo del juego es acabar con todas las naves enemigas
+
+pierdes si se te acaban tus vidas
+
+puedes presionar la tecla 'p' en cualquier momento para pausar la partida
+
+por cada disparo acertado ganas 1 punto
+
+por cada vida perdida pierdes 10 puntos
+
+el juego consta de cuatro niveles con dificultad creciente
+
+nivel 1: las naves enemigas mueren de un solo disparo
+
+nivel 2: las naves enemigas tienen 3 vidas
+
+nivel 3: tienes que derrotar a toda la fila anterior de naves
+	 para continuar con la siguiente.
+
+nivel 4: las naves enemigas tienen 4 vidas, tus disparos desaparecen
+	 al hacer contacto con una nave enemiga
+ 
